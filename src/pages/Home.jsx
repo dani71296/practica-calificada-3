@@ -6,9 +6,11 @@ export default function Home() {
       <div className="flex flex-col md:flex-row items-center gap-8 mb-12">
         {/* Columna izquierda: texto */}
         <div className="flex-1 space-y-4">
-          <h1 className="text-4xl font-bold text-gray-800">Bienvenido a mi sitio</h1>
+          <h1 className="text-4xl font-bold text-gray-800">Bootstrap 5 theme</h1>
+          <h1 className="text-4xl font-bold text-gray-800">crafted by ThemeWagon</h1>
           <p className="text-lg text-gray-600">
-            Aquí puedes escribir una descripción llamativa sobre tus servicios, tu empresa o lo que ofreces.
+            ThemeWagon offers an wide array of category-oriented 
+Free and Premium  Bootstrap HTML Templates and Themes. 
           </p>
           <button className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
             Saber más

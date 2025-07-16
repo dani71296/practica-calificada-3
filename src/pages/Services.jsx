@@ -4,9 +4,9 @@ export default function Services() {
     <section className="py-16 bg-gray-100 text-center">
       {/* Título y párrafo */}
       <div className="mb-12 px-4">
-        <h1 className="text-4xl font-bold text-gray-800">Nuestros Servicios</h1>
+        <h1 className="text-4xl font-bold text-gray-800">Service</h1>
         <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
-          Ofrecemos soluciones a medida para potenciar tu negocio con tecnología moderna y eficiente.
+          We offer youth with chances for career development in their practice. We also support a wide range of services to ensure client satisfaction
         </p>
       </div>
 
@@ -28,9 +28,9 @@ export default function Services() {
               alt="Servicio 1"
               className="w-full h-48 object-contain rounded mb-4"
             />
-            <h2 className="text-xl font-semibold text-gray-800">Servicio A</h2>
+            <h2 className="text-xl font-semibold text-gray-800">Send Text Instantly</h2>
             <p className="text-gray-600 mt-2">
-              Descripción breve del servicio A para destacar sus beneficios principales.
+              Financial planning, forecasting and adjusting rapidly with customer demands and budgets.
             </p>
             <button className="mt-4 text-blue-600 flex items-center gap-2 hover:underline">
               Learn More <span>→</span>
@@ -45,9 +45,10 @@ export default function Services() {
             alt="Servicio 2"
             className="w-full h-48 object-contain rounded mb-4"
           />
-          <h2 className="text-xl font-semibold text-gray-800">Servicio B</h2>
+          <h2 className="text-xl font-semibold text-gray-800">Better Organized</h2>
           <p className="text-gray-600 mt-2">
-            Descripción breve del servicio B que ofrecemos con dedicación y calidad.
+            Latest technology and experienced guidance, trained HR specialists 
+to keep updated.
           </p>
           <button className="mt-4 text-blue-600 flex items-center gap-2 hover:underline">
             Learn More <span>→</span>
@@ -61,9 +62,12 @@ export default function Services() {
             alt="Servicio 3"
             className="w-full h-48 object-contain rounded mb-4"
           />
-          <h2 className="text-xl font-semibold text-gray-800">Servicio C</h2>
+          <h2 className="text-xl font-semibold text-gray-800">Analytical Statistics</h2>
           <p className="text-gray-600 mt-2">
-            Este servicio está diseñado para ayudarte a crecer y destacar.
+            Messages, real-time reminders, memos, and many more will 
+keep your team in sync.
+
+
           </p>
           <button className="mt-4 text-blue-600 flex items-center gap-2 hover:underline">
             Learn More <span>→</span>

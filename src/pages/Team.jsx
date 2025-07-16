@@ -33,12 +33,12 @@ export default function Team() {
     <div className="flex flex-col items-center px-4 py-8 max-w-7xl mx-auto">
       {/* Título Centrado */}
       <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6 text-center">
-        Conoce a Nuestro Equipo
+        Our team
       </h1>
 
       {/* Párrafo Centrado */}
       <p className="text-lg md:text-xl text-gray-700 text-center max-w-3xl mb-12 leading-relaxed">
-        Somos un grupo apasionado de profesionales dedicados a transformar tus ideas en realidad. Cada miembro aporta experiencia y creatividad para asegurar el éxito de cada proyecto.
+        People from various origins, cultures, and personalities make up our team. This blend makes it a powerful team.
       </p>
 
       {/* Grid de Miembros del Equipo */}

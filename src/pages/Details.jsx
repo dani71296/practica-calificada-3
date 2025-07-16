@@ -15,9 +15,11 @@ export default function Details() {
 
     {/* Texto derecha */}
     <div>
-      <h2 className="text-3xl font-bold text-gray-800 mb-4">Primera característica destacada</h2>
+      <h2 className="text-3xl font-bold text-gray-800 mb-4">A creative team which builds stunning UI/UX</h2>
       <p className="text-gray-600 mb-6">
-        Este texto explica la funcionalidad, valor o detalle importante de esta característica o servicio.
+        Today, I'd like to show you some incredible Sign Up screen app UI ideas and concepts that offer a modern user experience.
+            The most stunning, cutting-edge UI/UX.
+            Klean is a free Bootstrap 5 template for multipurpose landing pages. This design is a perfect choice, carefully curated by ThemeWagon
       </p>
       <button className="px-6 py-2 text-blue-400 border border-blue-400 rounded-md">
         Read more
@@ -29,9 +31,11 @@ export default function Details() {
   <div className="max-w-6xl mx-auto grid md:grid-cols-2 items-center gap-8">
     {/* Texto izquierda */}
     <div>
-      <h2 className="text-3xl font-bold text-gray-800 mb-4">Segunda característica destacada</h2>
+      <h2 className="text-3xl font-bold text-gray-800 mb-4">Devoted to defining the cutting edge</h2>
       <p className="text-gray-600 mb-6">
-        Aquí se describe otra ventaja o propiedad del producto, mostrando su utilidad y beneficios.
+        "This new creation is cutting-edge technology," says the researcher, "whose study originates from a business
+            at the forefront of space science."
+            Klean is a free Bootstrap 5 template for multipurpose landing pages. This design is a perfect choice, carefully curated by ThemeWagon
       </p>
       <button className="px-6 py-2 text-blue-400 border border-blue-400 rounded-md">
         Read more

@@ -5,12 +5,12 @@ export default function Projects() {
     <div className="flex flex-col items-center px-4 py-8 max-w-7xl mx-auto">
       {/* Título Centrado */}
       <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6 text-center">
-        Nuestros Proyectos Destacados
+        Our Projects
       </h1>
 
       {/* Párrafo Centrado */}
       <p className="text-lg md:text-xl text-gray-700 text-center max-w-3xl mb-12 leading-relaxed">
-        Explora una selección de nuestros trabajos más recientes. Desde diseño web innovador hasta soluciones de desarrollo robustas, cada proyecto refleja nuestra dedicación a la excelencia y la satisfacción del cliente.
+        A project is a single or team activity, combining research and design with best effort. Here are some of our team's projects
       </p>
 
       {/* Grid de Imágenes */}

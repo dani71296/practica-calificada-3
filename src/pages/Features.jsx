@@ -3,33 +3,33 @@ export default function Features() {
   const features = [
     {
       img: '/4.features/icon1.png',
-      title: 'Velocidad',
-      desc: 'Procesos optimizados para rendimiento superior.',
+      title: 'Encrypted Mail',
+      desc: 'A process of encrypting email communications',
     },
     {
       img: '/4.features/icon2.png',
-      title: 'Seguridad',
-      desc: 'Protección de datos con estándares modernos.',
+      title: 'Display Sharing',
+      desc: 'With other participants, you may share your screen',
     },
     {
       img: '/4.features/icon3.png',
-      title: 'Escalabilidad',
-      desc: 'Preparado para crecer contigo sin límites.',
+      title: 'Private Notebook',
+      desc: 'Private Notebook is an application that is protected',
     },
     {
       img: '/4.features/icon4.png',
-      title: 'Soporte',
-      desc: 'Atención técnica 24/7 a tu disposición.',
+      title: 'App App Assistance',
+      desc: 'App Assistant is quickly and effectively ran the system',
     },
     {
       img: '/4.features/icon5.png',
-      title: 'Integraciones',
-      desc: 'Conectividad con tus herramientas favoritas.',
+      title: 'Multiple Printing',
+      desc: 'Our canvas prints are crafted on top-notch canvas.',
     },
     {
       img: '/4.features/icon6.png',
-      title: 'Personalización',
-      desc: 'Diseñado a tu medida, flexible y dinámico.',
+      title: 'Free Sketch',
+      desc: 'Our canvas prints are crafted on top-notch canvas.',
     },
   ]
 
